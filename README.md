@@ -1,1 +1,1 @@
-# denise-s-birthday
+# Denise's Birthday puzzle on iPython
